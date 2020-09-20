@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Test_1.iml" filepath="$PROJECT_DIR$/Test_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/两数相加/两数相加.iml" filepath="$PROJECT_DIR$/两数相加/两数相加.iml" />
+      <module fileurl="file://$PROJECT_DIR$/子集/子集.iml" filepath="$PROJECT_DIR$/子集/子集.iml" />
+      <module fileurl="file://$PROJECT_DIR$/左叶子和/左叶子和.iml" filepath="$PROJECT_DIR$/左叶子和/左叶子和.iml" />
+      <module fileurl="file://$PROJECT_DIR$/并发测试/并发测试.iml" filepath="$PROJECT_DIR$/并发测试/并发测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/组合3/组合3.iml" filepath="$PROJECT_DIR$/组合3/组合3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/身高重建/身高重建.iml" filepath="$PROJECT_DIR$/身高重建/身高重建.iml" />
+    </modules>
+  </component>
+</project>
